@@ -10,5 +10,9 @@ public class Test extends TieTacToe{
 		TieTacToe t = new TieTacToe();
 		t.addTokenToBoard('e', 1, 2);
 		}
+	
+	public void addByDeveloperTwo(){
+		System.out.println("This is my code! please dont touch it!!");
+	}
 
 }
