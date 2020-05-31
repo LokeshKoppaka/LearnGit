@@ -17,5 +17,7 @@ public class Test extends TieTacToe{
        public void addByDeveloperOne(){
 		System.out.println("This is done by Developer One");
 	}
+      public void featureFourAddedByDevTwo(){
+      }
 
 }
