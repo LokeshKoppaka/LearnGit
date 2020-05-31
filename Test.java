@@ -13,6 +13,9 @@ public class Test extends TieTacToe{
 	
 	public void addByDeveloperTwo(){
 		System.out.println("This is my code! please dont touch it!!");
+
+       public void addByDeveloperOne(){
+		System.out.println("This is done by Developer One");
 	}
 
 }
