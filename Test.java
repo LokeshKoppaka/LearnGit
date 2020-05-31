@@ -19,5 +19,6 @@ public class Test extends TieTacToe{
 	}
       public void featureFourAddedByDevTwo(){
       }
-
+      public void featureTwoDeveloperOne(){
+        }
 }
