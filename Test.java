@@ -23,4 +23,6 @@ public class Test extends TieTacToe{
         }
       public void featureOneAddByDevOne(){
 	}
+     public void featureOneByDevTwo(){
+     }
 }
