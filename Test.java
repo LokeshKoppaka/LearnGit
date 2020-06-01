@@ -10,19 +10,4 @@ public class Test extends TieTacToe{
 		TieTacToe t = new TieTacToe();
 		t.addTokenToBoard('e', 1, 2);
 		}
-	
-	public void addByDeveloperTwo(){
-		System.out.println("This is my code! please dont touch it!!");
-
-       public void addByDeveloperOne(){
-		System.out.println("This is done by Developer One");
-	}
-      public void featureFourAddedByDevTwo(){
-      }
-      public void featureTwoDeveloperOne(){
-        }
-      public void featureOneAddByDevOne(){
-	}
-     public void featureOneByDevTwo(){
-     }
 }
